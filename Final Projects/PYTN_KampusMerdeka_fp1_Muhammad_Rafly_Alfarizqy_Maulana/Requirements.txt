@@ -1,0 +1,13 @@
+Requirements
+
+pandas
+matplotlib
+seaborn 
+numpy
+scipy
+sklearn
+
+Dataset :
+
+https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma
+
