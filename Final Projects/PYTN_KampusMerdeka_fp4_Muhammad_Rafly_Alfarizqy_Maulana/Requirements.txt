@@ -1,0 +1,9 @@
+warnings
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+factor_analyzer 
+sklearn
+yellowbrick
